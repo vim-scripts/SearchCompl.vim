@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=147
+
+Similar to CmdlineCompl that it does the
+completion in-line, and without the use of cedit.  (Also originally by Stefan Roemer, thanks Stefan!).
